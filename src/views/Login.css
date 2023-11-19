@@ -55,7 +55,7 @@
     background-color: rgba(255, 255, 255, 1);
   }
   .app-login-page {
-    top: 46px;
+    top: 126px;
     left: 10px;
     width: 580px;
     height: 722px;
@@ -327,11 +327,7 @@
       flex-direction: column;
       justify-content: flex-start;
     }
-    .app-login-page {
-      top: 124px;
-      left: 218px;
-      width: 569px;
-    }
+    
     .app-have-acc {
       color: rgb(124, 131, 138);
       font-size: 18px;
