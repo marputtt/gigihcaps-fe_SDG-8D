@@ -2,14 +2,14 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './style.css'
 
-import Homepage from './views/homepage';
+import App from './App';
 
 
 
 
 ReactDOM.render(
 
-       <Homepage />
+       <App />
   ,
   document.getElementById('app')
  );
