@@ -9,8 +9,8 @@
     justify-content: center;
   }
   .activeColor {
-    
-    margin: 58px 700px 0 1013px;
+    top: 20px;
+    left: 412px;
     color: rgb(255, 255, 255);
     width: 129px;
     height: 46px;
@@ -24,7 +24,7 @@
     background-color: rgb(72, 98, 131);
   }
   .pointer {
-    margin: 58px 700px 0 604px;
+     top: 20px;
     color: rgb(255, 255, 255);
     width: 129px;
     height: 46px;
@@ -38,7 +38,8 @@
     background-color: rgb(72, 98, 131);
   }
   .row {
-    margin: 25px;
+    margin: x;
+    display: flex;
   }
   .app-container1 {
    

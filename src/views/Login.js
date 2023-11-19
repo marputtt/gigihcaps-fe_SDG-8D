@@ -43,6 +43,11 @@ function RegisterAndLogin() {
   return (
     <div className="App">
       {/* Registration and login Screen */}
+      
+
+
+      <div className="app-container">
+      <div className="app-container1">
       <div className="row">
         <button
           className={login == false ? "activeColor" : "pointer"}
@@ -58,10 +63,6 @@ function RegisterAndLogin() {
         </button>
       </div>
       
-
-
-      <div className="app-container">
-      <div className="app-container1">
         <div className="app-login-page">
       
             
